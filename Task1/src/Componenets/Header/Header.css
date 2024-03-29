@@ -1,0 +1,12 @@
+.header {
+  grid-area: header;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px 0 30px;
+  color: blue;
+  border: 2px solid pink;
+  color: black;
+  box-shadow: 0 6px 7px -3px rgba(47, 179, 184, 0.35);
+}

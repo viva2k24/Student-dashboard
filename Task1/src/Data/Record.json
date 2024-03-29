@@ -1,0 +1,171 @@
+[
+    {
+      "register_number":"2021242021",
+      "credits":4,
+      "semester":"1",
+      "course_code":"HS5152",
+      "course_name":"Communication English",
+      "gpa":5,
+      "grade":"A",
+      "password":"2021"
+    },
+    {
+      "register_number":"2021242021",
+      "credits":2,
+      "semester":"1",
+      "course_code":"HS5252",
+      "course_name":"Technical communication",
+      "gpa":8,
+      "grade":"B",
+      "password":"2021"
+    },
+    {
+      "register_number":"2021242022",
+      "credits":2,
+      "semester":"2",
+      "course_code":"XC5251",
+      "course_name":"Object oriented programming in c++",
+      "gpa":8,
+      "grade":"O",
+      "password":"2022"
+    },
+    {
+      "register_number":"2021242022",
+      "credits":3,
+      "semester":"3",
+      "course_code":"XC5351",
+      "course_name":"Combinatorics and Graph theory",
+      "gpa":6,
+      "grade":"O",
+      "password":"2022"
+    },
+    {
+      "register_number":"2021242023",
+      "credits":4,
+      "semester":"4",
+      "course_code":"MA5451",
+      "course_name":"Probability ans statistics",
+      "gpa":7,
+      "grade":"A+",
+      "password":"2023"
+    },
+    {
+      "register_number":"2021242023",
+      "credits":3,
+      "semester":"5",
+      "course_code":"XC5551",
+      "course_name":"Software Engineering",
+      "gpa":8,
+      "grade":"B+",
+      "password":"2023"
+    },
+    {
+      "register_number":"2021242023",
+      "credits":2,
+      "semester":"1",
+      "course_code":"XC5152",
+      "course_name":"C programming",
+      "gpa":6,
+      "grade":"A",
+      "password":"2023"
+    },
+    {
+      "register_number":"2021242024",
+      "credits":4,
+      "semester":"3",
+      "course_code":"MA5351",
+      "course_name":"Logic and Abstarct algebra",
+      "gpa":8,
+      "grade":"B+",
+      "password":"2024"
+    },
+    {
+      "register_number":"2021242025",
+      "credits":4,
+      "semester":"2",
+      "course_code":"MA5251",
+      "course_name":"Transform techniques",
+      "gpa":5,
+      "grade":"A+",
+      "password":"2025"
+    },{
+      "register_number":"2021242025",
+      "credits":4,
+      "semester":"3",
+      "course_code":"XC5353",
+      "course_name":"Operating system",
+      "gpa":9,
+      "grade":"A+",
+      "password":"2025"
+    },
+    {
+      "register_number":"2021242026",
+      "credits":4,
+      "semester":"2",
+      "course_code":"XC5253",
+      "course_name":"Computer Architecture",
+      "gpa":8,
+      "grade":"A",
+      "password":"2026"
+    },
+    {
+      "register_number":"2021242026",
+      "credits":4,
+      "semester":"5",
+      "course_code":"XT5501",
+      "course_name":"Advanced databse management system",
+      "gpa":6,
+      "grade":"B+",
+      "password":"2026"
+    },
+    {
+      "register_number":"2021242027",
+      "credits":4,
+      "semester":"1",
+      "course_code":"XC5151",
+      "course_name":"Digital System",
+      "gpa":10,
+      "grade":"B",
+      "password":"2027"
+    },
+    {
+      "register_number":"2021242028",
+      "credits":4,
+      "semester":"5",
+      "course_code":"XC5552",
+      "course_name":"Design and Analysis of algorithm",
+      "gpa":8,
+      "grade":"B+",
+      "password":"2028"
+    },
+    {
+      "register_number":"2021242028",
+      "credits":4,
+      "semester":"3",
+      "course_code":"XC5352",
+      "course_name":"Microprocessor and applications",
+      "gpa":7,
+      "grade":"A",
+      "password":"2028"
+    },
+    {
+      "register_number":"2021242028",
+      "credits":4,
+      "semester":"2",
+      "course_code":"CY5253",
+      "course_name":"Chemistry of materials",
+      "gpa":7,
+      "grade":"O",
+      "password":"2028"
+    },
+    {
+      "register_number":"2021242029",
+      "credits":4,
+      "semester":"5",
+      "course_code":"XT5074",
+      "course_name":"Open Source Systems",
+      "gpa":7,
+      "grade":"O",
+      "password":"2028"
+    }
+  ]
